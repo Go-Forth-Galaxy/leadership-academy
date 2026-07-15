@@ -1,0 +1,16 @@
+{
+  "name": "Go-Forth Leadership Academy",
+  "short_name": "Leadership",
+  "description": "A premium leadership development platform for the Go-Forth Galaxy of Companies.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "https://ai.go-forth.com/images/img-1784139546067-ikqnh7.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "https://ai.go-forth.com/images/img-1784139546067-ikqnh7.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
